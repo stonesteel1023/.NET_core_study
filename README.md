@@ -10,7 +10,7 @@ study for ASP.NET core &amp; Entitiy framework core
   - 3. ASP.NET MVC 도입(정확히 무슨 방법인지 모르겠음, 하지만 화면단(디자이너)과 콘트롤단, 모델단(DB)을 분리하는 가장 좋은 방법이긴 한 듯)
   - 4. 비주얼스튜디오에서 ASP.NET Web API 프로젝트를 실행해서 컨버트? 하는 방법(HTML을 직접 못 만지면 디자이너들과 협력이 안될 수 있기에..)
   
-- ASP에서 ASP.NET로 마이그레이션(업체 통할시 견적볼 수 있는 곳 : http://www.ispirer.co.kr/purchase)
+- ASP에서 ASP.NET로 마이그레이션(업체 통할시 견적볼 수 있는 곳 : http://www.ispirer.co.kr/purchase) : ezTips, Inc. 010 3293 2745
   - 액티브 서버 페이지 (*.asp)에서 ASP.NET 페이지(*.aspx)로 변환
   - VBScripts(*.vb)에서 C# (*.cs)
   - VBScripts(*.asp)에서 C# (*.aspx.cs) : 프로그래밍 로직 비하인드 페이지에서 .NET 프레임워크 페이지로 변환

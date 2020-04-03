@@ -20,3 +20,6 @@ study for ASP.NET core &amp; Entitiy framework core
 - 프론트엔드를 javascript를 그대로 가져가고, 백엔드도 javascript(Node.js)로 전환하는 방법이 가장 쉬워보임
 - 프론트엔드는 reactjs(결국 javscript 프레임워크니까..)로, 백단은 python으로.(둘다 제대로 해보지 않은 언어이기에 러닝커브가 고려됨)
 - (그나마 내가 젤 잘할 수 있는)Java와 jsp를 도입하는 방법은, 대규모 서비스로 커질 것을 대비한다면 좋겠지만.. 비용이  
+
+### 첨부파일
+[8054-462.pdf](https://github.com/stonesteel1023/.NET_core_study/files/4427037/8054-462.pdf)
